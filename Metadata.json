@@ -1,7 +1,7 @@
 {
     "Author": "Jitender_Singh",
     "ContentSize": 1956,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/status-of-all-the-backup-jobs-in-azure-(arm-)-recovery-services/master/AzureBackupjobsStatus.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/status-of-all-the-backup-jobs-in-azure--arm---recovery-services/master/AzureBackupjobsStatus.ps1",
     "DownloadCount": 1112,
     "Id": "Status-of-all-the-backup-76988b1d",
     "IsFederated": false,
@@ -15,6 +15,6 @@
     "Summary": "This script fetches all the Recovery services vaults in all the subscription and provides status of all the jobs in vaults.",
     "Title": "Status of all the backup jobs in Azure (ARM ) Recovery services",
     "UpdatedDate": "2017-1-16T00:00:00",
-    "Url": "https://github.com/azureautomation/status-of-all-the-backup-jobs-in-azure-(arm-)-recovery-services",
+    "Url": "https://github.com/azureautomation/status-of-all-the-backup-jobs-in-azure--arm---recovery-services",
     "UserTags": ""
 }
